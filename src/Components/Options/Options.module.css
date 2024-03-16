@@ -1,0 +1,40 @@
+.buttonSection {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+
+}
+
+.btnBad {
+    background-color: rgba(205, 250, 161, 0.687);
+    box-sizing: border-box;
+    border: 1px solid rgba(78, 149, 8, 0.687);
+    color: rgba(78, 149, 8, 0.687);
+    margin-right: 10px;
+}
+
+.btnGood {
+    background-color: rgb(253, 140, 99);
+    box-sizing: border-box;
+    border: 1px solid rgba(246, 66, 0, 0.93);
+    color: rgba(246, 66, 0, 0.93);
+    margin-right: 10px;
+}
+
+.btnNeutral {
+    background-color: rgb(253, 253, 101);
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 141, 99, 0.93);
+    color: rgba(255, 141, 99, 0.93);
+    margin-right: 10px;
+}
+
+.btnReset {
+    background-color: rgb(101, 253, 223);
+    box-sizing: border-box;
+    border: 1px solid rgb(60, 152, 134);
+    color: rgb(60, 152, 134);
+
+}
