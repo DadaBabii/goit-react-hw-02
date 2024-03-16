@@ -2,10 +2,10 @@ import { useState } from "react";
 import { useEffect } from "react";
 import "./App.css";
 
-import Descriptions from "./Components/Descriptions/Descriptions";
-import Options from "./Components/Options/Options";
-import Feedback from "./Components/Feedback/Feedback";
-import Notification from "./Components/Notification/Notification";
+import Descriptions from "./сomponents/Descriptions/Descriptions";
+import Options from "./сomponents/Options/Options";
+import Feedback from "./сomponents/Feedback/Feedback";
+import Notification from "./сomponents/Notification/Notification";
 
 const noVoiceArr = { good: 0, neutral: 0, bad: 0 };
 
